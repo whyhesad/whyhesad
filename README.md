@@ -35,13 +35,13 @@
 <tr>
 <td width="50%" valign="top">
 <h3>02 / Grooming PWA</h3>
-<a href="https://maket-grooming-yura.pages.dev"><img src="./grooming-card.svg" width="100%" alt="Демо PWA груминга: выбор питомца и нескольких услуг"></a>
+<a href="https://maket-grooming-yura.pages.dev"><img src="./grooming-preview.svg" width="100%" alt="Демо PWA груминга: выбор питомца и нескольких услуг"></a>
 <p><b>Демонстрационный проект.</b> Выбор питомца и нескольких услуг, суммарная длительность, календарь на две недели, проверка непрерывного свободного интервала.</p>
 <p><a href="https://maket-grooming-yura.pages.dev">Открыть демо ↗</a> · <a href="./grooming.md">Разбор проекта</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>03 / Detailing PWA</h3>
-<a href="https://maket-detailing-yura.pages.dev"><img src="./detailing-card.svg" width="100%" alt="Демо PWA детейлинга: услуги и выбор времени"></a>
+<a href="https://maket-detailing-yura.pages.dev"><img src="./detailing-preview.svg" width="100%" alt="Демо PWA детейлинга: услуги и выбор времени"></a>
 <p><b>Демонстрационный проект.</b> Каталог услуг, выбор времени с учётом длительности, форма, сохранённые демозаписи и отмена. Тёмный мобильный интерфейс.</p>
 <p><a href="https://maket-detailing-yura.pages.dev">Открыть демо ↗</a> · <a href="./detailing.md">Разбор проекта</a></p>
 </td>
